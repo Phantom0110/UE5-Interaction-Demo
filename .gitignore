@@ -1,0 +1,25 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Build outputs
+*.target
+*.pdb
+*.obj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.tmp
